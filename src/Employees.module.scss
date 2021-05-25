@@ -1,0 +1,31 @@
+.main {
+	margin-inline: auto;
+	max-width: 55rem;
+	padding-block-end: 2.5rem;
+	padding-inline: 1rem;
+}
+
+.list {
+	list-style-type: none;
+	padding-inline-start: 0;
+}
+
+.employee {
+	padding-block: 1rem;
+}
+
+.newEmployee {
+	display: flex;
+}
+
+.newEmployeeInput {
+	min-width: 0;
+}
+
+.newEmployeeButton {
+	font-size: 1rem;
+}
+
+.loadingMessage {
+	margin-block-start: 2.5rem;
+}
